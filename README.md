@@ -1,5 +1,5 @@
 # Set-Creator-CLI
-Command line version of a little app, that will help you prepare setlist for a gig.
+Command line version of a little app, that will help you prepare setlists for your bands gigs.
 
 About Set Creator
 This is my first C# app, so please, be forgiving :)
