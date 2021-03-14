@@ -1,5 +1,4 @@
 # Set-Creator-CLI
-Set Creator
 Command line version of a little app, that will help you prepare setlist for a gig.
 
 About Set Creator
@@ -9,9 +8,7 @@ Doing it manually wasn't very convinient, so I came up with idea for this app.
 
 Features:
   - Record library
-    Add your songs to the library and export the library to JSON file, so you can use it in the future.
+    Add your songs to the records library and export the library to JSON file, so you can use it in the future.
   - Setlist
-    Add songs of your choice from your library to the setlist, control setlist time.
-    Manage song order in the setlist.
-    Export/import your setlist to JSON, so you can use it in the future.
-    Save your setlist to txt or pdf file.
+    Add songs of your choice from your library to the setlist, control setlist time, manage song order in the setlist, export/import your setlist to JSON, so you can use it in the future,
+    save your setlist to txt or pdf file.
